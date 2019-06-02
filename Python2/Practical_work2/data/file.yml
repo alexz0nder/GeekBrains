@@ -1,0 +1,10 @@
+currency:
+- rubble
+- dollar
+- euro
+current_number: 22
+symbols:
+  dollar: $
+  euro: €
+  rubble: Р
+  yen: ¥
